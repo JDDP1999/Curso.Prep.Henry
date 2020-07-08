@@ -1,0 +1,1 @@
+* Arrays: Es como una hoja llena de renglones, esta el renglon 1 hasta el renglon que yo quiera, en cada renglon puedo ponerle lo que yo quiera, luego puedo acceder a ese tipo de datos simplemente diciendo en que renglon esta el dato que estoy buscando.
